@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ehschoo/Angular-Tutorial/_apis/build/status/sjoetje.pipelines-java?branchName=master)](https://dev.azure.com/ehschoo/Angular-Tutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
